@@ -4,8 +4,8 @@ Automated script for updated CVE pushed on slack.
 To install
 
 ```
-git clone github.com/th3r4id/cveonslack.git\
-cd cveonslack\
+git clone github.com/th3r4id/cveonslack.git
+cd cveonslack
 ```
 Update slack tokens and channel-id in code\
 ```
