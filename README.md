@@ -7,7 +7,7 @@ To install
 git clone github.com/th3r4id/cveonslack.git\
 cd cveonslack\
 ```
-Update slack tokens in code and channel-id in code**\
+Update slack tokens and channel-id in code\
 ```
 go build cvesearch.go
 ```
